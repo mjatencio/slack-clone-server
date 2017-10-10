@@ -1,0 +1,25 @@
+{
+  "name": "slack-clone-server",
+  "version": "1.0.0",
+  "description": "The backend for a Slack clone using React and GraphQL. Ben Awad course (https://www.youtube.com/playlist?list=PLN3n1USn4xlkdRlq3VZ1sT6SGW0-yajjL).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjatencio/slack-clone-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjatencio/slack-clone-server/issues"
+  },
+  "homepage": "https://github.com/mjatencio/slack-clone-server#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-stage-3": "^6.24.1"
+  }
+}
